@@ -1,0 +1,14 @@
+{
+    "name": "hp/blog",
+    "description": "tugas 1 - blog",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Dwi Nenda Putri",
+            "email": "dwinendaputri1304@gmail.com"
+        }
+    ]
+}
